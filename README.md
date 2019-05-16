@@ -1,3 +1,1 @@
-# hello
-nothing
-gengaibiyaode 
+＃基础
